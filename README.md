@@ -55,6 +55,16 @@ class Application extends Nullstack {
 export default Application;
 ```
 
+## Customization
+
+You can customize the following attributes:
+
+- id
+- class
+- placeholder
+- disabled
+- data-*
+
 ## Caveats
 
 Currently this component only works with the XX 99999.9999 format
