@@ -1,8 +1,8 @@
 {
   "name": "nullstack-phone-input",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "phone Input for Nullstack",
-  "main": "src/phoneInput.njs",
+  "main": "src/PhoneInput.njs",
   "author": "Mortaro",
   "license": "MIT",
   "repository": "github:Mortaro/nullstack-phone-input",
